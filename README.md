@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna @AnnaSak7
-- 👀 I’m interested in ...
+- 👀 I’m curious and eager to learn new things.
 - 🌱 I’m currently a Frontend Developer student at Hyper Island
 - 📫 How to reach me ... zenasak@gmail.com
 
