@@ -6,7 +6,9 @@
 - 📫 How to reach me ... zenasak@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaSak7&show_icons=true&theme=dracula&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaSak7&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSak7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
